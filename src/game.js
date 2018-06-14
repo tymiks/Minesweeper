@@ -30,5 +30,5 @@ class Game {
     }
 };
 
-const g = new Game(4, 4, 3);
-g.playMove(1, 2);
+//const g = new Game(4, 4, 3);
+//g.playMove(1, 2);
